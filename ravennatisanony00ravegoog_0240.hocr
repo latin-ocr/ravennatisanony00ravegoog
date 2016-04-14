@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ravennatisanony00ravegoog_0240.png"; bbox 0 0 829 1158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 175 607 189">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 175 607 189">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 175 607 189; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 194 175 238 187; x_wconf 69' lang='lat' dir='ltr'>xv„</span> <span class='ocrx_word' id='word_1_2' title='bbox 579 175 607 189; x_wconf 68' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 203 211 607 285">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 203 211 607 285">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 211 606 233; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 205 218 209 229; x_wconf 85' lang='lat'>1</span> <span class='ocrx_word' id='word_1_4' title='bbox 251 211 271 228; x_wconf 79' lang='lat' dir='ltr'>In</span> <span class='ocrx_word' id='word_1_5' title='bbox 286 212 332 228; x_wconf 72' lang='lat' dir='ltr'>euius</span> <span class='ocrx_word' id='word_1_6' title='bbox 346 212 407 233; x_wconf 72' lang='lat' dir='ltr'>patriae</span> <span class='ocrx_word' id='word_1_7' title='bbox 422 212 514 228; x_wconf 65' lang='lat' dir='ltr'><strong>summitate</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 528 212 606 228; x_wconf 73' lang='lat' dir='ltr'><strong>montium</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 203 237 606 260; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 203 243 211 255; x_wconf 70' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 229 238 283 254; x_wconf 66' lang='lat' dir='ltr'><strong>laeum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 294 243 329 254; x_wconf 74' lang='lat' dir='ltr'>esse</span> <span class='ocrx_word' id='word_1_12' title='bbox 337 238 411 260; x_wconf 72' lang='lat' dir='ltr'>legimus.</span> <span class='ocrx_word' id='word_1_13' title='bbox 434 243 474 259; x_wconf 69' lang='lat' dir='ltr'>qm</span> <span class='ocrx_word' id='word_1_14' title='bbox 482 238 535 259; x_wconf 68' lang='lat' dir='ltr'>patria</span> <span class='ocrx_word' id='word_1_15' title='bbox 542 237 606 254; x_wconf 75' lang='lat' dir='ltr'>diversa</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 204 263 607 285; baseline 0 -5"><span class='ocrx_word' id='word_1_16' title='bbox 204 269 211 281; x_wconf 71' lang='grc' dir='ltr'>ε</span> <span class='ocrx_word' id='word_1_17' title='bbox 229 263 279 280; x_wconf 73' lang='lat' dir='ltr'>hahet</span> <span class='ocrx_word' id='word_1_18' title='bbox 292 263 367 284; x_wconf 76' lang='lat' dir='ltr'><strong>flumina,</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 381 264 423 280; x_wconf 72' lang='lat' dir='ltr'>inter</span> <span class='ocrx_word' id='word_1_20' title='bbox 437 266 491 280; x_wconf 71' lang='lat' dir='ltr'><strong>cetera</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 505 263 563 280; x_wconf 72' lang='lat' dir='ltr'>fluvius</span> <span class='ocrx_word' id='word_1_22' title='bbox 579 264 607 285; x_wconf 79' lang='lat' dir='ltr'>qui</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

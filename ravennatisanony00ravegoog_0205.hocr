@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ravennatisanony00ravegoog_0205.png"; bbox 0 0 829 1158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 167 658 273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 167 658 252">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 167 657 181; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 246 167 272 181; x_wconf 79' lang='lat'><strong>1⁸8</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 621 168 639 180; x_wconf 81' lang='lat' dir='ltr'><strong>lv</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 649 169 657 180; x_wconf 88' lang='lat'>⁷</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 256 204 658 222; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 256 211 261 222; x_wconf 88' lang='lat'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 303 204 345 221; x_wconf 63' lang='lat' dir='ltr'><strong>Ivem</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 356 207 401 221; x_wconf 67' lang='lat' dir='ltr'>trans</span> <span class='ocrx_word' id='word_1_7' title='bbox 412 204 479 221; x_wconf 78' lang='lat' dir='ltr'>fluvium</span> <span class='ocrx_word' id='word_1_8' title='bbox 486 204 581 221; x_wconf 65' lang='lat' dir='ltr'>Danubium</span> <span class='ocrx_word' id='word_1_9' title='bbox 588 207 627 221; x_wconf 75' lang='lat' dir='ltr'><strong>sunt</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 635 205 658 221; x_wconf 80' lang='lat' dir='ltr'><strong>oi—</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 255 230 579 252; baseline 0 -5"><span class='ocrx_word' id='word_1_11' title='bbox 255 236 262 247; x_wconf 79' lang='lat'><strong>²</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 281 231 341 247; x_wconf 68' lang='lat' dir='ltr'><strong>vitates</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 352 230 417 252; x_wconf 71' lang='lat' dir='ltr'>Mysiae</span> <span class='ocrx_word' id='word_1_14' title='bbox 429 230 514 251; x_wconf 73' lang='lat' dir='ltr'>inferioris,</span> <span class='ocrx_word' id='word_1_15' title='bbox 525 230 543 247; x_wconf 80' lang='lat' dir='ltr'><strong>id</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 554 234 579 247; x_wconf 75' lang='lat' dir='ltr'><strong>est</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 255 256 447 273">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 256 447 273; baseline -0.005 0"><span class='ocrx_word' id='word_1_17' title='bbox 255 262 262 273; x_wconf 73' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_18' title='bbox 356 256 447 272; x_wconf 63' lang='lat' dir='ltr'>Pon-olianus</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

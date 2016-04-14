@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ravennatisanony00ravegoog_0214.png"; bbox 0 0 829 1158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 186 214 317">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 186 214 317">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 186 214 317; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 205 229 213 317; x_wconf 48' lang='lat' dir='ltr'><strong>..um-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 203 186 214 198; x_wconf 66' lang='grc'><strong><em>4</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 306 224 384 319">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 306 224 384 319">
+     <span class='ocr_line' id='line_1_2' title="bbox 308 224 358 241; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 308 224 358 241; x_wconf 75' lang='lat' dir='ltr'>Ceras</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 307 250 373 273; baseline 0 -6"><span class='ocrx_word' id='word_1_4' title='bbox 307 250 373 273; x_wconf 73' lang='lat' dir='ltr'>Europa</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 306 276 384 293; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 306 276 384 293; x_wconf 68' lang='lat' dir='ltr'><strong>Mediana</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 306 302 365 319; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 306 302 365 319; x_wconf 66' lang='lat' dir='ltr'><strong>Patina</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 582 191 607 205">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 582 191 607 205">
+     <span class='ocr_line' id='line_1_6' title="bbox 582 191 607 205; baseline 0.04 -1"><span class='ocrx_word' id='word_1_7' title='bbox 582 191 607 205; x_wconf 75' lang='lat'>197</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
